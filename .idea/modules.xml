@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day30_qq.iml" filepath="$PROJECT_DIR$/Day30_qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Frescu/Frescu.iml" filepath="$PROJECT_DIR$/Frescu/Frescu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appQQ/appQQ.iml" filepath="$PROJECT_DIR$/appQQ/appQQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
